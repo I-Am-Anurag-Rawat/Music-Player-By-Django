@@ -1,0 +1,1 @@
+# This is a django based Music Player project which allows users to play the songs along with their lyrics which get synchronized.
